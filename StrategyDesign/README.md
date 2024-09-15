@@ -1,0 +1,1 @@
+When we're creating parent child relationship and children have same code which is not present in parent,
