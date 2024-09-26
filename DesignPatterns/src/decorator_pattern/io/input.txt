@@ -1,0 +1,1 @@
+Here, the SOURCE1, SOURCE2, and SOURCE3 represent the files or directories you want to move, and the DESTINATION represents the directory where you want to move them to.
